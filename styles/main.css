@@ -194,7 +194,7 @@ body img {
   #container {
     width: 1200px;
     margin: auto;
-    padding: 1.5rem 5rem;
+    padding: 5rem;
     display: flex;
     flex-direction: column;
     font-family: "Inter", sans-serif;
